@@ -23,7 +23,7 @@ The game also includes a list of moves that you can view by clicking on the "Gam
 ### Credits
 This code was adapted from a tutorial on the React website.
 
-
+### Here is a gif of the Tic Tac Toe:
 ![](https://github.com/cop4808-spring-2023-fullstack-web/hw8-tic-tac-toe-react-exercise-vladiazouga/blob/main/React_TicTacToe.gif)
 
 
